@@ -21,13 +21,3 @@ A modern and performant task management app built with [Next.js](https://nextjs.
 ## 🌐 Live Demo
 
 [View Live Demo](https://your-project-url.vercel.app)
-
-## 🏁 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-
-2. npm install
-
-3. npm run dev
